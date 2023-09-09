@@ -10,5 +10,4 @@ Secure and Private: Your data is stored securely on Firebase.
 MVVM Architecture: Built with the Model-View-ViewModel architecture, making it easy to maintain and scale as your app grows.
 GetX for State Management: Utilizes the GetX package for efficient and reactive state management, ensuring a smooth and responsive app. Whether you're a student taking class notes, a professional managing tasks, or simply someone who enjoys jotting down thoughts and ideas, MyNotes is the perfect companion for keeping your life organized and efficient.
 
-(![WhatsApp Image 2023-09-09 at 11 47 50 AM](https://github.com/MuhammadAligithub7/My_Notes/assets/90595554/b7ee6d9f-2433-403f-b9eb-66153d0754e5)
-){:height="100px" width="100px"}.
+<img src=" ![WhatsApp Image 2023-09-09 at 11 47 50 AM](https://github.com/MuhammadAligithub7/My_Notes/assets/90595554/4d9bd69a-4996-44b1-822a-eb31b682621a) " width="20" height="30">
